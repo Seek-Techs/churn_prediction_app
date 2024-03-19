@@ -54,5 +54,6 @@ This Streamlit web application predicts the likelihood of bank customers churnin
    ```
 
 ---
+!The GUI of the App(bank_customer_churn_app1.JPG)
 
 This documentation provides an overview of the Bank Customer Churn Prediction application, its usage, requirements, installation instructions, and running instructions. It serves as a guide for users and developers interested in utilizing or contributing to the application.
